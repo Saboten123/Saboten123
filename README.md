@@ -12,7 +12,7 @@
 
 
 - 🌱 I’m currently learning:<br>
-[![Python]((https://legacy.python.org/community/logos/python-logo-master-v3-TM.png))](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)
 [![TypeScript](https://img.shields.io/badge/-JavaScript-3178C6?style=for-the-badge&logo=JavaScript&logoColor=white)](https://www.javascript.com/)
 [![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=Unity&logoColor=white)](https://unity.com/) 
 - 📫 Contact me through my Gmail: [manashishdhar@gmail.com](mailto:manashishdhar@gmail.com)
