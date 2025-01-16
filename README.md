@@ -23,8 +23,10 @@
 
 
 
-📊 GitHub Stats: <br>
-![GitHub Streak](https://streak-stats.demolab.com?user=saboten123&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<!-- 📊 GitHub Stats:  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Saboten123)](https://git.io/streak-stats)
+
+-->
 
 
  📜 About: <br>
