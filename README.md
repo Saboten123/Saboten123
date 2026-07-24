@@ -18,19 +18,21 @@
 - 📫 Contact me through my Gmail: [manashishdhar@gmail.com](mailto:manashishdhar@gmail.com)
 
 
- Visitors
+
 <!-- - ![visitor Count](https://komarev.com/ghpvc/?username=your-github-saboten123&style=flat&color=000000&label=Visitors)-->
-![Visitors](https://komarev.com/ghpvc/?username=saboten123&style=for-the-badge&color=blueviolet&label=VISITORS)
+![Profile Views](https://komarev.com/ghpvc/?username=saboten123&style=for-the-badge&color=blueviolet&label=VISITORS)
+
 
 
 <!-- 📊 GitHub Stats:  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Saboten123&theme=highcontrast&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 -->
-📊 GitHub Stats: 
-<p align="center">
+<h1>📊 GitHub Stats: </h1>
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saboten123&hide_border=true&ring=ff9900&fire=ff9900&currStreakLabel=ff9900" />
 </p>
 
 
- <h1>💭 Daily Inspiration</h1> <br>
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<h1>💭 Daily Inspiration</h1>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
