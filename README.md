@@ -26,6 +26,10 @@
 <!-- 📊 GitHub Stats:  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Saboten123&theme=highcontrast&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 -->
+📊 GitHub Stats: 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saboten123&theme=transparent&hide_border=true&ring=ff9900&fire=ff9900&currStreakLabel=ff9900" />
+</p>
 
 
  📜 About: <br>
