@@ -19,8 +19,8 @@
 
 
  Visitors
-- ![visitor Count](https://komarev.com/ghpvc/?username=your-github-saboten123&style=flat&color=000000&label=Visitors)
-
+<!-- - ![visitor Count](https://komarev.com/ghpvc/?username=your-github-saboten123&style=flat&color=000000&label=Visitors)-->
+- ![Visitors](https://komarev.com/ghpvc/?username=saboten123&style=for-the-badge&color=blueviolet&label=VISITORS)
 
 
 <!-- 📊 GitHub Stats:  
