@@ -32,5 +32,5 @@
 </p>
 
 
- 📜 About: <br>
+ <h1>💭 Daily Inspiration</h1> <br>
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
