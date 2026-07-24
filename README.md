@@ -28,7 +28,7 @@
 -->
 📊 GitHub Stats: 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saboten123&theme=transparent&hide_border=true&ring=ff9900&fire=ff9900&currStreakLabel=ff9900" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saboten123&hide_border=true&ring=ff9900&fire=ff9900&currStreakLabel=ff9900" />
 </p>
 
 
