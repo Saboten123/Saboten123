@@ -28,9 +28,9 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Saboten123&theme=highcontrast&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 -->
 <h1>📊 GitHub Stats: </h1>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saboten123&hide_border=true&ring=ff9900&fire=ff9900&currStreakLabel=ff9900" />
-</p>
+
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Saboten123&theme=highcontrast&hide_border=true)
+
 
 
 <h1>💭 Daily Inspiration</h1>
