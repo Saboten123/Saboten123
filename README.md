@@ -34,5 +34,6 @@
 
 
 <h1>💭 Daily Inspiration</h1>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=000000&quoteColor=ffffff&authorColor=58a6ff&borderColor=000000" />
+
 
